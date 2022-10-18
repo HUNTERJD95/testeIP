@@ -1,0 +1,8 @@
+C:\Users\cs_ba\source\repos\testeIP\Teste\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\cs_ba\source\repos\testeIP\Teste\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\cs_ba\source\repos\testeIP\Teste\Teste\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\cs_ba\source\repos\testeIP\Teste\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\cs_ba\source\repos\testeIP\Teste\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cs_ba\source\repos\testeIP\Teste\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\cs_ba\source\repos\testeIP\Teste\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\cs_ba\source\repos\testeIP\Teste\Teste\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
